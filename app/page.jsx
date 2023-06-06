@@ -18,6 +18,8 @@ const Home = () => {
           perspiciatis, velit excepturi tempora qui officiis deleniti eaque
           blanditiis dignissimos repudiandae libero quas!
         </p>
+
+        <Feed />
       </section>
     </div>
   );
